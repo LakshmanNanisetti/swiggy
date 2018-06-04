@@ -13,6 +13,7 @@ public class Swiggy {
     /**
      * @param args the command line arguments
      */
+    //I will be adding database support here
     public static int order_id=0;
     public static int next_res_id=11;
     public static void addCustomers(HashMap<String,Customer> customers){
